@@ -1,0 +1,35 @@
+
+step 1: importing libraries 
+(necessary libraries)
+
+step 2: adding zzure software dev kit
+(azure sdk)
+
+step 3: connect workspace with azure web
+(workspace connection)
+
+step 4: dta import and data cleaning 
+
+step 5: correlation matricx to choose right data
+(correlation matrix)
+
+step 6: split data for training
+(split and test data)
+
+step 7: train model
+(sample model pipleine)
+
+step 8: save model
+(save model)
+
+step 9: register model
+(registering model)
+
+step 10: create python scoring script file 
+(scorepy)
+
+step 11:deploy model
+(deploying model)
+
+step 12: Test with sample data
+(Verify Prediction)
